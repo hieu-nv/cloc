@@ -8881,6 +8881,7 @@ sub set_constants {                          # {{{1
             'csh'         => 'C Shell'               ,
             'cson'        => 'CSON'                  ,
             'css'         => "CSS"                   ,
+            'uss'         => "CSS"                   ,
             'csv'         => "CSV"                   ,
             'cu'          => 'CUDA'                  ,
             'cuh'         => 'CUDA'                  , # CUDA header file
@@ -9601,6 +9602,7 @@ sub set_constants {                          # {{{1
             'wxml'        => 'WXML'                  ,
             'wxss'        => 'WXSS'                  ,
             'vxml'        => 'XML'                   ,
+            'uxml'        => 'XML'                   ,
             'vstemplate'  => 'XML'                   ,
             'vssettings'  => 'XML'                   ,
             'vsixmanifest'=> 'XML'                   ,
